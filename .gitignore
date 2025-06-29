@@ -1,0 +1,35 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# VS Code stuff
+.vscode/
+*.code-workspace
+
+# Jupyter notebook checkpoint files
+.ipynb_checkpoints/
+
+# Data dumps
+*.csv
+*.dat
+*.npz
+*.txt
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+.idea/
+
+# Logs or temp
+*.log
+*.tmp
+
+# PDF exports (if you don’t want them tracked)
+*.pdf
