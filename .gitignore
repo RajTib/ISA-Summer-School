@@ -11,8 +11,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data dumps
-*.csv
-*.dat
+# *.csv
+# *.dat
 *.npz
 *.txt
 
@@ -32,4 +32,4 @@ venv/
 *.tmp
 
 # PDF exports (if you don’t want them tracked)
-*.pdf
+# *.pdf
