@@ -1,0 +1,13 @@
+# Ignore PDF reports
+*.pdf
+
+# Ignore ISA project handout and extras
+Guidelines/
+
+# Ignore personal report folder
+Reports/
+
+# Allow data file and plots (explicitly)
+!Pantheon+SH0ES.dat
+!Plots/
+!Plots/*.png
